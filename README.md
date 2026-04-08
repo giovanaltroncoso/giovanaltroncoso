@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá! Me chamo Giovana 👋
 
-<!--
-**giovanaltroncoso/giovanaltroncoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou em transição de carreira para a área de tecnologia, com foco em **Desenvolvimento Back-end**.
 
-Here are some ideas to get you started:
+- 🎓 Estudante de ADS
+- 💻 Atualmente aprofundando conhecimentos em **Java** e Programação Orientada a Objetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="70" />
+
+#
+<a href="https://www.linkedin.com/in/giovanatroncoso/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="50" />
+</a>
