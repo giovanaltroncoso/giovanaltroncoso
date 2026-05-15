@@ -2,8 +2,8 @@
 
 Atualmente estou em transição de carreira para a área de tecnologia, com foco em **Desenvolvimento Back-end**.
 
-- Estudante de ADS
-- Atualmente aprofundando conhecimentos em **Java** e Programação Orientada a Objetos
+- Estudante de Análise e Desenvolvimento de Sistemas
+- Aprofundando conhecimentos em **Java** e Programação Orientada a Objetos
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="70" />
 
